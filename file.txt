@@ -6,3 +6,4 @@ if you are dumb:
 else:
 	print(you are cool)
 jdjdbb s
+skkk
