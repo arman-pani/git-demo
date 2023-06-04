@@ -1,0 +1,13 @@
+#this is first code
+print(heloo)
+#second code
+if you are dumb:
+	print(you are not cool)
+else:
+	print(you are cool)
+jdjdbb s
+skkk
+dkndnd
+lsls d
+dkdksn
+ldlld
